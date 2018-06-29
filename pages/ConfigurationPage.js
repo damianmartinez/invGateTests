@@ -11,7 +11,7 @@ config.allowScreenshots = true
 
 config.credentials = {
     username:  'superadmin',
-    password:  '19bc91610'
+    password:  ''
 }
 
 config.customField = {
