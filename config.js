@@ -26,6 +26,6 @@ exports.config = {
     },
 
     specs: [
-        'suites/video.js'
+        'suites/1-video.js'
     ]
 };
